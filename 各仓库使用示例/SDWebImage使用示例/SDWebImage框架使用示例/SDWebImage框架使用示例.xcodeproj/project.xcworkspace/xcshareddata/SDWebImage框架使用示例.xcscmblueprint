@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "396525571BCD2E428A4CE184FF170C3716FBB57F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D4752A285E0541F1B4C8B8F62AA9A27AEA07310B" : 0,
+    "396525571BCD2E428A4CE184FF170C3716FBB57F" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "964E37A5-85A7-4D40-97E8-B0A4DDD7AB36",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D4752A285E0541F1B4C8B8F62AA9A27AEA07310B" : "",
+    "396525571BCD2E428A4CE184FF170C3716FBB57F" : "OpenSourceLibraryResearch\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SDWebImage框架使用示例",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "各仓库使用示例\/SDWebImage使用示例\/SDWebImage框架使用示例\/SDWebImage框架使用示例.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HanGangAndHanMeimei\/OpenSourceLibraryResearch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "396525571BCD2E428A4CE184FF170C3716FBB57F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/HanGangAndHanMeimei\/Eye.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D4752A285E0541F1B4C8B8F62AA9A27AEA07310B"
+    }
+  ]
+}
